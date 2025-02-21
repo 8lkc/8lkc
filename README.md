@@ -4,15 +4,10 @@
   </a>
 </h1>
 
-## 🛠️ Language & tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="54" alt="go logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="54" alt="go logo">
-  <img width="9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="54" alt="c logo">
-  <img width="9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="54" alt="c logo">
-  <img width="9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="54" alt="c logo">
-  <img width="9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="54" alt="c logo">
-  <img width="9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="54" alt="c logo">
-  <img width="9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="54" alt="c logo">
-  <img width="9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="54" alt="c logo">
-</div>
+<h2 align="center">🖥️ Tech Stack 🛠️</h2>
+<h3 align="center">↪️ Framework ↩️</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular" /></a></p>
+<h3 align="center">↪️ Languages ↩️</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c" /></a></p>
+<h3 align="center">↪️ Tools ↩️</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gitlab,github,git,vscodium,vscode,linux,windows" /></a></p>
