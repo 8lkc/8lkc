@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=8lkc.8lkc&format=true&left_color=teal&right_color=chocolate" alt="badge">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=37&center=true&width=610&height=70&duration=2500&lines=Hello+There+👋🏿;I'm+Cuukel+15+😇;Welcome+to+my+GitHub+🪵" alt="Welcome">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=37&center=true&width=610&height=70&duration=2500&lines=Hello+There+👋🏿;This+is+Pape+B.+SOW+😇;Welcome+to+my+GitHub+🪵" alt="Welcome">
 </h1>
 
 <h3 align="center">👨🏿‍💻 About Me</h3>
