@@ -30,5 +30,5 @@
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&width=520&height=52&duration=2500&lines=Be+at+ease+😇;if+you+have+any+contributions+🛠️;please+don't+hesitate+😉" alt="Welcome">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&width=520&height=52&duration=2500&lines=If+you+have+any+contributions+🛠️;please+don't+hesitate+😉;Be+at+ease+😇" alt="Welcome">
 </div>
