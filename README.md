@@ -5,9 +5,9 @@
 </h1>
 
 <h2 align="center">🖥️ Tech Stack 🛠️</h2>
-<h3 align="center">↪️ Framework ↩️</h3>
+<h3 align="center"><ins><em>Framework</em></ins></h3>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular" /></a></p>
-<h3 align="center">↪️ Languages ↩️</h3>
+<h3 align="center"><ins><em>Languages</em></ins></h3>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c" /></a></p>
-<h3 align="center">↪️ Tools ↩️</h3>
+<h3 align="center"><ins><em>Tools</em></ins></h3>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gitlab,github,git,vscodium,vscode,linux,windows" /></a></p>
