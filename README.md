@@ -1,4 +1,8 @@
-<h1 align="center">Hello there❕</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=43&center=true&width=700&height=88&duration=2500&lines=Hello+There+👋🏿;I'm+Cuukel+15+😇;Welcome+to+my+GitHub+🪵" alt="Welcome">
+  </a>
+</h1>
 
 ## 🛠️ Language & tools
 <div align="left">
