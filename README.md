@@ -8,7 +8,7 @@
 <h4 align="center">A passionate <code>full stack developer</code> from <code>Zone01 Dakar</code> 🇸🇳.</h4>
 <h4 align="center">
   Currently . . .<br>
-  🔭 I'm working on <code>high-performance HTTP server conception</code><br>
+  🔭 I'm working on a <code>Shell conception</code><br>
   🌱 I'm learning <code>Rust language</code>
 </h4>
 
