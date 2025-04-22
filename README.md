@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=8lkc.8lkc&format=true&left_color=teal&right_color=chocolate" alt="badge">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=37&center=true&width=610&height=70&duration=2500&lines=Hello+There+👋🏿;This+is+Pape+B.+SOW+😇;Welcome+to+my+GitHub+🪵" alt="Welcome">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=37&center=true&width=610&height=70&duration=2500&lines=Hello+There+👋🏿;This+is+Pape+B.+SOW+😇;Welcome+to+my+GitHub+🪵" alt="welcome">
 </h1>
 
 <h3 align="center">👨🏿‍💻<br><ins>About Me</ins></h3>
@@ -30,5 +30,5 @@
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&width=520&height=52&duration=2500&lines=If+you+have+any+contributions+🛠️;please+don't+hesitate+😉;Be+at+ease+😇" alt="Welcome">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&width=520&height=52&duration=2500&lines=If+you+have+any+contributions+🛠️;please+don't+hesitate+😉;Be+at+ease+😇" alt="goodbye">
 </div>
